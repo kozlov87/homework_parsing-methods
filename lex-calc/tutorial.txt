@@ -1,0 +1,7 @@
+Windows OC:
+
+Open cmd:
+	1). flex calc.l (install https://sourceforge.net/projects/winflexbison/ if nessesary)
+	2). cc lex.yy.c (install https://gcc.gnu.org/install/binaries.html if nessary)
+	3). a.exe
+	4). put arithmetic operations between two numbers (ex. : 2+3 ; 9/3 ; 10-6 ; etc.)
